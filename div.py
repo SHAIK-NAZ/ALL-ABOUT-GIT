@@ -1,7 +1,7 @@
 # This program adds div numbers
 
-num1 = 1.5
-num2 = 6.3
+num1 = 45
+num2 = 5
 
 # Add div numbers
 div = num1 / num2
