@@ -1,7 +1,7 @@
 # This program adds sub numbers
 
-num1 = 1.5
-num2 = 6.3
+num1 = 22.2
+num2 = 11.1
 
 # Add sub numbers
 sub = num1 - num2
